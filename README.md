@@ -10,9 +10,9 @@ Plataforma de hospedagem de código-fonte e arquivos com controle de versão (us
 
 ## Comandos GIT Básicos
 
-- `git init`   - Cria um repositório local na máquina do usuário
+- `git init`   - Cria um repositório local
 - `git add`    - Prepara os arquivos para serem adicionados no repositório remoto
-- `git commit` - Descreve as mudanças feitas no arquivo
+- `git commit` - Descreve os arquivos que estão sendo preparados para envio
 - `git push`   - Empurra os arquivos para nuvem (repositório remoto)
 
 ---
